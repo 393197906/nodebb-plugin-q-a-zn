@@ -1,0 +1,23 @@
+{
+    "name": "nodebb-plugin-q-a-zn",
+    "version": "1.0.0",
+    "description": "A nodebb-plugin-question-and-answer plugin for NodeBB which allows users to post topics as questions and select a post as the answe",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/393197906/nodebb-plugin-q-a-zn.git"
+    },
+    "main": "library.js",
+    "keywords": [
+        "nodebb",
+        "plugin",
+        "question",
+        "answer",
+        "Q&A"
+    ],
+    "author": "dawenxi",
+    "license": " Apache License",
+    "dependencies": {},
+    "nbbpm": {
+        "compatibility": "^1.0.0"
+    }
+}
